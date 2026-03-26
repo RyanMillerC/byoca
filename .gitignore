@@ -1,0 +1,7 @@
+# Ignore generated certs, keys, and CSRs
+/pki
+*.cer
+*.crt
+*.csr
+*.key
+*.pem
