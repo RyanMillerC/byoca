@@ -1,10 +1,10 @@
 #!/bin/bash
 #
-# create_leaf.sh <domain> [subject-alternate-name-1 san-2 ...]
+# create-leaf.sh <domain> [subject-alternate-name-1 san-2 ...]
 #
 # Examples:
-#   ./create_leaf.sh whatever.com
-#   ./create_leaf.sh whatever.com www.whatever.com other.whatever.com 
+#   ./create-leaf.sh whatever.com
+#   ./create-leaf.sh whatever.com www.whatever.com other.whatever.com 
 #
 
 set -e
